@@ -12,3 +12,6 @@ This code defines a Board class for Connect 4, managing moves, win conditions, a
 #### 3. Sudoku Solver: 
 This code defines a Sudoku puzzle solver using backtracking and AC3 for constraint propagation. It includes classes for managing the grid, selecting variables using different heuristics (First Available and MRV), and visualizing results with matplotlib.
 
+![running_time](https://github.com/user-attachments/assets/389ca53c-0a8e-49d4-a7d1-66fc0859e086)
+
+
